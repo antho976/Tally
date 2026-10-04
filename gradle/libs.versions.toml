@@ -23,7 +23,7 @@ leakcanary = "2.14"
 profileinstaller = "1.4.1"
 
 junit = "4.13.2"
-roborazzi = "1.73.0"
+roborazzi = "1.76.0"
 robolectric = "4.16.1"
 androidx-test-junit = "1.3.0"
 androidx-test-core = "1.7.0"
